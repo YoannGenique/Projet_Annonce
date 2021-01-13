@@ -68,6 +68,7 @@ Envoyer un mail à la personne de la suppression de son annonce.
 -	[ ] Concevoir le modèle physique
 
 ### Front 
+
 -	[ ] Préparation pour le codage avec l’aide de la maquette 
 -	[ ] Réalisation de la page de listing
 -	[ ] Réalisation de la page de détails
@@ -81,10 +82,12 @@ Envoyer un mail à la personne de la suppression de son annonce.
 -	[ ] Intégration du PHP
 
 ### Back  
+
 -	[ ] Créer les modèles
 -	[ ] Pour chaque méthode définir les variables nécessaires à la vue
 
 ### Final 
+
 -	[ ] Vérification du fonctionnement des page
 -	[ ] Correction
 
@@ -100,10 +103,11 @@ Envoyer un mail à la personne de la suppression de son annonce.
 - https://www.php.net/manual/fr/index.php
 
 ## Référence web
+
 - https://www.leboncoin.fr/
 
 ## Ressources
-- Parcours "PHP > Programmation orientée objet" sur vos-formations.com
+
 - https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/introduction-programmation-orientee-objet/
 - https://www.grafikart.fr/formations/programmation-objet-php
 - https://sql.sh/
