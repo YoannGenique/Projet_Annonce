@@ -50,12 +50,12 @@ Envoyer un mail à la personne de la suppression de son annonce.
 
 ## Tache à réaliser x
 
--	[ ] Comprendre le projet
--	[ ] Réaliser un benchmark
--	[ ] Concevoir le MCD
--	[ ] Concevoir le MLD
--	[ ] Réaliser une maquette
--   [ ] Réalisé le readme
+-	[x] Comprendre le projet
+-	[x] Réaliser un benchmark
+-	[x] Concevoir le MCD
+-	[x] Concevoir le MLD
+-	[x] Réaliser une maquette
+-   [x] Réalisé le readme
 -	[ ] Installer dépendances PHP : AltoRouter, mPDF, (Twig, MJML, MJML-PHP)
 -	[ ] (Installer nodejs et npm ou yarn)
 -	[ ] (Installer dépendances front : sass)
@@ -69,7 +69,7 @@ Envoyer un mail à la personne de la suppression de son annonce.
 
 ### Front 
 
--	[ ] Préparation pour le codage avec l’aide de la maquette 
+-	[x] Préparation pour le codage avec l’aide de la maquette 
 -	[ ] Réalisation de la page de listing
 -	[ ] Réalisation de la page de détails
 -	[ ] Réalisation de la page Formulaire Ajout
