@@ -116,5 +116,3 @@ Envoyer un mail à la personne de la suppression de son annonce.
 - https://www.youtube.com/watch?v=fKPK2VhsA4o&list=PLRR7wjtXb1cDOFKfjsZ3s1aTNrINCISTx
 - https://www.youtube.com/watch?v=_VpH_oObT1Y
 - https://nouvelle-techno.fr/actualites/live-coding-introduction-au-mvc-en-php
-
-Fait Par Yoann Génique
