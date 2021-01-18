@@ -69,7 +69,7 @@ Envoyer un mail à la personne de la suppression de son annonce.
 
 ### Front 
 
--	[ ] Préparation pour le codage avec l’aide de la maquette 
+-	[x] Préparation pour le codage avec l’aide de la maquette 
 -	[ ] Réalisation de la page de listing
 -	[ ] Réalisation de la page de détails
 -	[ ] Réalisation de la page Formulaire Ajout

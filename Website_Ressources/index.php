@@ -22,9 +22,9 @@
     <!-- Main -->
     <main>
         <section>
-            <div>
+            <div class="div_first_btn">
                 <!-- Btn Ajouter un cactuu -->
-                <button></button>
+                <button class="first_btn">Ajouter un CACTUu</button>
             </div>
         </section>
         <section>
@@ -34,8 +34,11 @@
         </section>
     </main>
     <!-- Fin Main -->
+    <!-- PUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUSHHHH -->
+    <DIV class="push"></DIV>
+        <!-- PUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUSHHHH -->
     <!-- footer -->
-    <footer>
+    <footer class="foo">
     </footer>
     <!-- Fin footer -->
 </body>
