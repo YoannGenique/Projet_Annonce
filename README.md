@@ -33,7 +33,7 @@ Pour le revendeur il pourra :
 - Il recevra un mail de confirmation pour dire que l'annonce à été ajouter
 - Il pourra modifier ou supprimer son annonce avec des lien qui lui seront envoyé par mail
 
-### Client !
+### Client 
 
 Pour le client il pourra :
 - Consulter une liste d'annonce
